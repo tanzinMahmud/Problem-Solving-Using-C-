@@ -1,2 +1,2 @@
-# Problem-Solving-Using-C-
+# Problem-Solving-Using-C Plus Plus
 All problem solving solutions using c++.
